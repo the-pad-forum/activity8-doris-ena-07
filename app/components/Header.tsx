@@ -19,8 +19,8 @@ const Header = () => {
 
         <div className= {styles.social_icons}>
           <Link href={'https://web.facebook.com/profile.php?id=100093796205631'} target='_blank'><FaFacebook className= {styles.icon}/></Link>
-          <Link href={'https://google.com'} target='_blank'><FaTwitter  className= {styles.icon}/></Link>
-          <Link href={'https://google.com'} target='_blank'><FaLinkedin className= {styles.icon}/></Link>
+          <Link href={'https://Twitter.com'} target='_blank'><FaTwitter  className= {styles.icon}/></Link>
+          <Link href={'https://LinkedIn.com'} target='_blank'><FaLinkedin className= {styles.icon}/></Link>
           <Link href={'https://github.com/Doris-Ena-07'} target='_blank'><FaGithub className= {styles.icon}/></Link>
         </div>
       </div>
